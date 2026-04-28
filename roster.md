@@ -15,3 +15,4 @@ Add your info here!
 |Sage|@wongcw0104|||Tech knowledge gap, interactive sound and visual project||
 |dennis aycicek||[dennisaycicek.de](https://dennisaycicek.de)|sound, noise, non-music, performance, experimental music, post-industrial research, collage-making|
 |Chanmin Kim|@Kücheutensilien|chanchanmin.com|Vinted, Analog Film|Cowboy boots, Kücheutensilien, Was hat Mensa heute, Korn Schnaps, Black Magie|
+|Fabian| @KatanaKarl|[farnfreund.info](https://farnfreund.info/)|Processing, Basics of HTML,CSS and vanilla JS, bit of Python, RaspberryPi, analog photography and alternative processes, amateur woodworking, Basic Lasercutting and engraving| Archiving, airfryer repair, screw-in threads, cornbread|
