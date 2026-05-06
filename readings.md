@@ -23,6 +23,9 @@ Steyerl, Hito. 2025. *Medium Hot*. Verso. (selections provided)
 Weatherby L. 2025. *Language Machines: Cultural AI and the End of Remainder Humanism*. (selections provided)
 
 Weizenbaum, Joseph. 2014. “The Myth of the Last Metaphor.” In *Speaking Minds: Interviews with Twenty Eminent Cognitive Scientists*, eds. Peter Baumgartner and Sabine Payr. Princeton UP. https://www.degruyterbrill.com/document/doi/10.1515/9781400863969.249/html
+## Videos
+
+Arte Tracks. 2025. "Off Grid" https://www.arte.tv/de/videos/126484-047-A/tracks/
 
 ## Zines
 

@@ -8,6 +8,7 @@ Add your info here!
 |Aiden Vetter|[@13c13rq](https://github.com/13c13rq)|[Leclerqs-abode.com](https://leclerqs-abode.com)|libre & FOSS software, Perl script, Bash script, experimental & creative writing / coding, pc hardware & repair, Linux sysadmin|Rust, OpenGL, procedural AR simulations|
 |Kylie Seunghyun Oh|[@damtired](https://github.com/damtired)|[instagram: @kylieoh.sonic](https://www.instagram.com/kylieoh.sonic/)|puredata, Touchdesigner, Ableton Live, Logic Pro, and composition and playing instruments...|live sound performances and experimental music using bodily sounds, noise music and shoegaze, MAX/MSP|
 |jeo kang|@jeokang|https://www.instagram.com/jeo_kang/|||
+|Henry|[@88fvp8yq9b-web]||||
 |chaya shen|@chayabae-cmd|[chayashen.info](https://chayashen.info)|scultural installation, mold making, baking, new materialist feminist writing|medical visualization, pregnancy test, html language|
 |You He|[@You He](https://github.com/heyou88)|website under construction|unreal game engine, table tennis, cosmotechnics|obsidian+claude, claude code|
 |an*dre neely|[an-dreGN](https://github.com/an-dreGN)|[@itsandreneely](https://www.instagram.com/itsandreneely)|performance, text, choreography, somatics, queer theory & artistic research|coding n00b, wanna use Linux. Big-Tech exodus, tech misappropriations, text-based MUDs, interactive systems, live-coding, FOSS & Libre Software|
