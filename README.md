@@ -31,7 +31,7 @@ Contact [Sarah](sarah.ciston@khm.de) to join meetups.
 |2|23 Apr|Get to Know Git & Terminal|[McQuillan "Predicted Benefits, Proven Harms: How AI’s Algorithmic Violence Emerged from Our Own Social Matrix"](https://wolke.khm.de/index.php/s/ETRjKwjor7ncKyo)|Henry|
 |3|30 Apr|Git for Writing & Coding|Gebru, Timnit, and Émile P. Torres. 2024. “The TESCREAL Bundle: Eugenics and the Promise of Utopia through Artificial General Intelligence.” First Monday, [https://firstmonday.org/ojs/index.php/fm/article/view/13636]|Sarah or Volunteer|
 |4|7 May|TBD|TBD|TBD|
-<!-- |5|14 May|||| -->
+|5|14 May|Holiday - No class|||
 <!-- |6|21 May|||| -->
 <!-- |7|28 May|||| -->
 <!-- |8|4 Jun|||| -->
