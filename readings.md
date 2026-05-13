@@ -26,7 +26,11 @@ Weizenbaum, Joseph. 2014. “The Myth of the Last Metaphor.” In *Speaking Mind
 
 ## Videos
 
+3blue1brown: Transformers part 1 (see also part 2, or previous video LLMs explained briefly): https://www.3blue1brown.com/?topic=neural-networks&lesson=gpt
+
 Arte Tracks. 2025. "Off Grid" https://www.arte.tv/de/videos/126484-047-A/tracks/
+
+Liu T-C, Kühr L-E. 51 Ways to Spell the Image Giraffe: The hidden politics of token languages in generative AI. https://media.ccc.de/v/39c3-51-ways-to-spell-the-image-giraffe-the-hidden-politics-of-token-languages-in-generative-ai
 
 ## Zines
 
