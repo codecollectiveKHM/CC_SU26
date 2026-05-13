@@ -14,7 +14,7 @@ Hamraie, Aimi, and Kelly Fritsch. 2019. “Crip Technoscience Manifesto.” Cata
 
 Nakamura L. 2014. "Indigenous Circuits: Navajo Women and the Racialization of Early Electronic Manufacture." American Quarterly 66 (4): 919-941. https://muse.jhu.edu/pub/1/article/563663 
 
-Seaver N. 2021. "Care and Scale: Decorrelative Ethics in Algorithmic Recommendation." Cultural Anthropology 36 (3): 509-537. https://journal.culanth.org/index.php/ca/article/view/4807 
+> Seaver N. 2021. "Care and Scale: Decorrelative Ethics in Algorithmic Recommendation." Cultural Anthropology 36 (3): 509-537. https://journal.culanth.org/index.php/ca/article/view/4807 
 
 Star, Susan Leigh. 1999. “The Ethnography of Infrastructure.” American Behavioral Scientist 43 (3): 377–91. https://doi.org/10.1177/00027649921955326. 
 
@@ -23,6 +23,7 @@ Steyerl, Hito. 2025. *Medium Hot*. Verso. (selections provided)
 Weatherby L. 2025. *Language Machines: Cultural AI and the End of Remainder Humanism*. (selections provided)
 
 Weizenbaum, Joseph. 2014. “The Myth of the Last Metaphor.” In *Speaking Minds: Interviews with Twenty Eminent Cognitive Scientists*, eds. Peter Baumgartner and Sabine Payr. Princeton UP. https://www.degruyterbrill.com/document/doi/10.1515/9781400863969.249/html
+
 ## Videos
 
 Arte Tracks. 2025. "Off Grid" https://www.arte.tv/de/videos/126484-047-A/tracks/
