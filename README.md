@@ -34,7 +34,7 @@ Contact [Sarah](sarah.ciston@khm.de) to join meetups.
 |5|14 May|Holiday - No class|rest|self-directed|
 |6|21 May|Terminal & Mesh|Liu T-C, Kühr L-E. 51 Ways to Spell the Image Giraffe: The hidden politics of token languages in generative AI. https://media.ccc.de/v/39c3-51-ways-to-spell-the-image-giraffe-the-hidden-politics-of-token-languages-in-generative-ai AND/OR 3blue1brown: Transformers part 1 (see also part 2, or previous video LLMs explained briefly): https://www.3blue1brown.com/?topic=neural-networks&lesson=gpt|Kylie|
 |7|28 May|Making Mesh|none|n/a|
-|8|4 Jun||||
+|8|4 Jun|Holiday - No class|rest|self-directed|
 |9|11 Jun||||
 |10|25 Jun||||
 |11|2 Jul||||
