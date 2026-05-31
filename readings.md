@@ -16,7 +16,7 @@ Nakamura L. 2014. "Indigenous Circuits: Navajo Women and the Racialization of Ea
 
 > Seaver N. 2021. "Care and Scale: Decorrelative Ethics in Algorithmic Recommendation." Cultural Anthropology 36 (3): 509-537. https://journal.culanth.org/index.php/ca/article/view/4807 
 
-Star, Susan Leigh. 1999. “The Ethnography of Infrastructure.” American Behavioral Scientist 43 (3): 377–91. https://doi.org/10.1177/00027649921955326. 
+> Star, Susan Leigh. 1999. “The Ethnography of Infrastructure.” American Behavioral Scientist 43 (3): 377–91. https://doi.org/10.1177/00027649921955326. 
 
 Steyerl, Hito. 2025. *Medium Hot*. Verso. (selections provided)
 
