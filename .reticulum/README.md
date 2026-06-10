@@ -36,7 +36,7 @@ Follow the onscreen instructions. You may need to run it twice or add a `--baud-
 `$ pip install nomadnet`
 `$ nomadnet`
 
-2. Share your Address with other users
+2. Share your address with other users
    
    You can find your address under the `Network` tab, at the bottom left hand size of the interface.
 

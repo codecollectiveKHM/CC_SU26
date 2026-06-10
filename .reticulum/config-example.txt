@@ -16,16 +16,16 @@
     type = AutoInterface
     enabled = Yes
 
-  [[Testnet]]
-    type = TCPClientInterface
-    enabled = Yes
-    target_host = reticulum.network
-    target_port = 4965
-
-  [[Sarah Ahelltech]]
+  [[Heltech TransferNode]]
     type = UDPInterface
     enabled = Yes
     listen_ip = 0.0.0.0
     listen_port = 4242
     forward_ip = 192.168.2.196
     forward_port = 4242
+
+# [[Testnet]]
+#    type = TCPClientInterface
+#    enabled = Yes
+#    target_host = reticulum.network
+#    target_port = 4965
