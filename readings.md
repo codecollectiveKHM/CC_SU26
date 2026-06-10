@@ -16,7 +16,7 @@ Nakamura L. 2014. "Indigenous Circuits: Navajo Women and the Racialization of Ea
 
 > Seaver N. 2021. "Care and Scale: Decorrelative Ethics in Algorithmic Recommendation." Cultural Anthropology 36 (3): 509-537. https://journal.culanth.org/index.php/ca/article/view/4807 
 
-> Star, Susan Leigh. 1999. “The Ethnography of Infrastructure.” American Behavioral Scientist 43 (3): 377–91. https://doi.org/10.1177/00027649921955326. 
+> Star, Susan Leigh. 1999. “The Ethnography of Infrastructure.” American Behavioral Scientist 43 (3): 377–91. https://doi.org/10.1177/00027649921955326
 
 Steyerl, Hito. 2025. *Medium Hot*. Verso. (selections provided)
 
@@ -84,6 +84,8 @@ Hoff, Melanie. 2022. “Always-Already-Programming.md.” Gist. October 17, 2022
 Morrison, Romi Ron. 2022. "Voluptuous Disintegration: A Future History of Black Computational Thought." Digital Humanities Quarterly 016 (3). https://dhq.digitalhumanities.org/vol/16/3/000634/000634.html
 
 Noble, Safiya Umoja. 2018. Algorithms of Oppression : How Search Engines Reinforce Racism. New York: NYU Press
+
+Olivar J, Savičić G, Vasiliev D. "Critical Engineering Manifesto." https://criticalengineering.org/
 
 Schirvar, Sam. “Machinery for Managers: Secretaries, Psychologists, and 'Human–Computer Interaction', 1973–1983.” BJHS Themes 8 (2023): 97–110. https://doi.org/10.1017/bjt.2023.10.
 

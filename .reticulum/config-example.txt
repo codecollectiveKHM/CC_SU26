@@ -1,0 +1,31 @@
+# rename to 'config' (no .txt ending)
+# place in your .reticulum folder located in your username folder
+
+
+[reticulum]
+  enable_transport = False
+  share_instance = Yes
+  instance_name = default
+
+[logging]
+  loglevel = 4
+
+[interfaces]
+
+  [[Default Interface]]
+    type = AutoInterface
+    enabled = Yes
+
+  [[Testnet]]
+    type = TCPClientInterface
+    enabled = Yes
+    target_host = reticulum.network
+    target_port = 4965
+
+  [[Sarah Ahelltech]]
+    type = UDPInterface
+    enabled = Yes
+    listen_ip = 0.0.0.0
+    listen_port = 4242
+    forward_ip = 192.168.2.196
+    forward_port = 4242
