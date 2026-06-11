@@ -24,10 +24,10 @@
     forward_ip = 192.168.2.255
     forward_port = 4242
 
-    [[RNode LoRa Interface]]
+  [[RNode LoRa Interface]]
     #type = RNodeInterface
 
-    # Enable interface if you want use it! And remove all # comments
+    # Enable interface if you want use it!
     enabled = no 
 
     # Serial port for the device
