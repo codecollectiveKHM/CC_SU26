@@ -8,18 +8,22 @@
 
 Best practice for all projects. 
 
-`$ conda create -n mesh python=3.13`
-`$ conda activate mesh`
+At the terminal run the following:
+`conda create -n mesh python=3.13`
 
-1. Install reticulum tool
+`conda activate mesh`
 
-`$ pip install rnsd`
+1. Install and run reticulum tool
+
+`pip install rnsd`
+
+`rnsd`
 
 2. Update config file
 
-Copy `config` file into `USERNAME/.reticulum/`
+Copy text from example `config` file into `USERNAME/.reticulum/config`
 
-Update any settings as you see fit, or run `rnsd --exampleconfig` to generate a well-commented config file
+Update any settings as you see fit. You can run `rnsd --exampleconfig` to generate a well-commented config file for reference.
 
 3. Optional: Flash your LoRa Rnode if you have one
 
