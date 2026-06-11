@@ -1,5 +1,7 @@
 ## Why Reticulum?
 
+[Brief intro](https://pad.puscii.nl/p/reticulum_introduction)
+
 ## How to Reticulum
 
 0. Optional: Create a conda environment
