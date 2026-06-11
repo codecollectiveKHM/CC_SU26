@@ -23,11 +23,11 @@ At the terminal run the following:
 
 Copy text from example `config` file into `USERNAME/.reticulum/config`
 
-Update any settings as you see fit. You can run `rnsd --exampleconfig` to generate a well-commented config file for reference.
+Update any settings as you see fit. You can run `rnsd --exampleconfig > ~/.reticulum/example-config.txt` to generate a well-commented config file for reference.
 
 3. Optional: Flash your LoRa Rnode if you have one
 
-Find your device's port: `$ ls /dev/tty`
+Find your device's port: `$ ls /dev/tty*`
 
 Use the flash utility to run an  
 `$ pip install rnodeconf`
