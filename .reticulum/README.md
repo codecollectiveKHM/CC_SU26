@@ -40,17 +40,22 @@ Follow the onscreen instructions. You may need to run it twice or add a `--baud-
 1. Install and start nomadnet from terminal, or another messaging client
 
 `$ pip install nomadnet`
+
 `$ nomadnet`
 
 2. Share your address with other users
    
    You can find your address under the `Network` tab, at the bottom left hand size of the interface.
 
-3. Experiment with the different sections, including `Conversations` and `Networks` reading the guide.
-   
-4. Make a Page to introduce yourself to your network.
+   Change your name from `Anonymous Peer` to a new name of your preference.
 
-5. Try out other clients like Sideband or MeshChatX if you prefer.
+   Copy the `LXMF Address` and share with your pals.
+
+4. Experiment with the different sections, including `Conversations` and `Networks` reading the guide.
+   
+5. Make a Page to introduce yourself to your network.
+
+6. Try out other clients like Sideband or MeshChatX if you prefer.
 
 
 
