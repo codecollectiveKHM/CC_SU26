@@ -16,16 +16,47 @@
     type = AutoInterface
     enabled = Yes
 
-  [[Heltech TransferNode]]
+  [[LAN UDP]]
     type = UDPInterface
     enabled = Yes
     listen_ip = 0.0.0.0
     listen_port = 4242
-    forward_ip = 192.168.2.196
+    forward_ip = 192.168.2.255
     forward_port = 4242
 
-# [[Testnet]]
-#    type = TCPClientInterface
-#    enabled = Yes
-#    target_host = reticulum.network
-#    target_port = 4965
+    [[RNode LoRa Interface]]
+    #type = RNodeInterface
+
+    # Enable interface if you want use it! And remove all # comments
+    enabled = no 
+
+    # Serial port for the device
+    port = /dev/tty.usbmodem101 
+    # port = /dev/ttyUSB0
+
+    ## Other ways to connect
+    # port = tcp://10.0.0.1
+    # port = tcp://rnodef3b9.local
+    # port = ble://RNode 3B87
+    # port = ble://F4:12:73:29:4E:89
+    # port = ble://
+
+    frequency = 867200000
+
+    bandwidth = 125000
+
+    txpower = 7
+
+    spreadingfactor = 8
+
+    codingrate = 5
+
+    # id_callsign = MYCALL-0
+    # id_interval = 600
+    
+    # flow_control = False
+
+    # airtime_limit_long = 1.5
+    # airtime_limit_short = 33
+
+
