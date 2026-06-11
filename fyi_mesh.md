@@ -1,5 +1,7 @@
 ## Reticulum
 
+[Why reticulum](https://pad.puscii.nl/p/reticulum_introduction)
+
 [Reticulum manual](https://reticulum.network/manual/interfaces.html)
 
 [Reticulum curriculum quickstart](https://github.com/pickles976/ReticulumCurriculum/tree/main/Reticulum)
