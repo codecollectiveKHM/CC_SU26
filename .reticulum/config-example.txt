@@ -41,7 +41,7 @@
     # port = ble://F4:12:73:29:4E:89
     # port = ble://
 
-    frequency = 867200000
+    frequency = 867200000 #check that this matches your peers
 
     bandwidth = 125000
 
@@ -59,4 +59,4 @@
     # airtime_limit_long = 1.5
     # airtime_limit_short = 33
 
-
+    
