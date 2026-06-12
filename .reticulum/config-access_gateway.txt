@@ -24,6 +24,9 @@
     longitude = 6.961959
     height = 15
 
+    announce_rate_target = 3600
+    announce_rate_penalty = 3600
+    announce_rate_grace = 6
 
 
 
