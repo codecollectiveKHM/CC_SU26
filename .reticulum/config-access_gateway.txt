@@ -1,8 +1,9 @@
 # for the transfer_node, add to interfaces section of its config file
+# Backbone is for linux only
 
   [[Public Gateway]]
     type = BackboneInterface
-    mode = access_point #make 'access_point' for radio, 'gateway' for TCP/wifi or don't designate in order to decide automatically
+    # mode = access_point #make 'access_point' for radio, 'gateway' for TCP/wifi or don't designate in order to decide automatically
     listen_on = 0.0.0.0
     port = 4242
 
@@ -11,7 +12,7 @@
 
     # Interface Details
     discovery_name = KHMesh-CCLab
-    announce_interval = 720
+    # announce_interval = 720
 
     # Use external script to resolve dynamic IP
     reachable_on = /usr/local/bin/get_external_ip.sh
@@ -36,3 +37,4 @@
    # discovery_name = 
    # announce_interval = 720
    # discovery_stamp_value = 24
+   ## can add this to one of your running interfaces to appear on [global reticulum map](https://rmap.world/)

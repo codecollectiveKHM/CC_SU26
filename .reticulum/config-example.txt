@@ -7,6 +7,9 @@
   share_instance = Yes
   instance_name = default
 
+discover_interfaces = yes
+autoconnect_discovered_interfaces = 0
+
 [logging]
   loglevel = 4
 
@@ -16,6 +19,16 @@
     type = AutoInterface
     enabled = Yes
 
+    # Be part of smaller network
+    group_id = KHMesh
+    discovery_scope = global
+
+    # Enable your node to be discovered by others
+    discoverable = Yes 
+    # add your details, optional
+    # discovery_name = 
+
+  # extra interface to make our particular internet work?
   [[LAN UDP]]
     type = UDPInterface
     enabled = Yes
@@ -30,33 +43,22 @@
     # Enable interface if you want use it!
     enabled = no 
 
-    # Serial port for the device
+    # Serial port for the device, check that it is the correct port, could also be: /dev/ca.usbmodem101, or /dev/ttyUSB0
     port = /dev/tty.usbmodem101 
-    # port = /dev/ttyUSB0
 
-    ## Other ways to connect
-    # port = tcp://10.0.0.1
-    # port = tcp://rnodef3b9.local
-    # port = ble://RNode 3B87
-    # port = ble://F4:12:73:29:4E:89
-    # port = ble://
+    # Check that this matches your peers
+    frequency = 869525000 
 
-    frequency = 867200000 #check that this matches your peers
-
+    # Check that this matches your peers
     bandwidth = 125000
 
+    # does not need to match, higher > further, but more conflicts and power use
     txpower = 7
 
+    # Check that this matches your peers
     spreadingfactor = 8
 
+    # does not need to match, error correction, more = slower data exchange but better reliability
     codingrate = 5
 
-    # id_callsign = MYCALL-0
-    # id_interval = 600
-    
-    # flow_control = False
-
-    # airtime_limit_long = 1.5
-    # airtime_limit_short = 33
-
-    
+  # See reticulum manual for more explanations and options
