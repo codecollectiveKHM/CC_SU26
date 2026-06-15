@@ -50,7 +50,7 @@ autoconnect_discovered_interfaces = 0
     frequency = 869525000 
 
     # Check that this matches your peers
-    bandwidth = 125000
+    # bandwidth = 125000
 
     # does not need to match, higher > further, but more conflicts and power use
     txpower = 7
@@ -62,3 +62,4 @@ autoconnect_discovered_interfaces = 0
     codingrate = 5
 
   # See reticulum manual for more explanations and options
+  
