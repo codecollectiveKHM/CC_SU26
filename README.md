@@ -36,10 +36,10 @@ Contact [Sarah](sarah.ciston@khm.de) to join meetups.
 |7|28 May|Making Mesh|none|n/a|
 |8|4 Jun|Holiday - No class|rest|self-directed|
 |9|11 Jun|Reticulum Meshworks, Mail Art, & Minimalist Computing|Star, Susan Leigh. 1999. “The Ethnography of Infrastructure.” American Behavioral Scientist 43 (3): 377–91. https://doi.org/10.1177/00027649921955326|??|
-|10|25 Jun||||
-|11|2 Jul||||
-|12|9 Jul|Project Work!|n/a|n/a|
-|13|15 Jul|RUNDGANG|n/a|n/a|
+|10|25 Jun|Rundgang Check-In|none||
+|11|2 Jul|Project Work & Network Building|Optional: "On Addressability", [38C3 Videos on Mesh Networking](fyi_mesh.md)||
+|12|9 Jul|Project Work & Rundgang Install|||
+|13|15 Jul|RUNDGANG|||
 
 ## Who
 
