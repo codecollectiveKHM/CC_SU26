@@ -44,7 +44,7 @@ autoconnect_discovered_interfaces = 0
     enabled = no 
 
     # Serial port for the device
-    # check that it is the correct port, could also be: /dev/ca.usbmodem101, or /dev/ttyUSB0, etc
+    # check that it is the correct port. it will depend on where you plug it in. could also be: /dev/ca.usbmodem101, or /dev/ttyUSB0, etc
     # check the port by searching all ports with the command 'ls /dev/tty*'
     port = /dev/tty.usbmodem101 
 
