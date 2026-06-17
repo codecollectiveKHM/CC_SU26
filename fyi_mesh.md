@@ -6,6 +6,8 @@
 
 [Reticulum curriculum quickstart](https://github.com/pickles976/ReticulumCurriculum/tree/main/Reticulum)
 
+[video quick start](https://www.youtube.com/watch?v=D2sfkqeyQyg)
+
 [Hardware flasher](https://liamcottle.github.io/rnode-flasher/)
 
 [nomadnet](https://github.com/markqvist/nomadnet) terminal text-based messaging and hosted pages
