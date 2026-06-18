@@ -1,3 +1,18 @@
+## Meshtastic VS Reticulum
+
+| Meshtastic | Reticulum |
+|---|---|
+|LoRa only|**WiFi, Bluetooth, LoRa, etc**|
+|limited to radio range|**connect across different networks**|
+|**all platforms**|no iOS|
+|**download apps**|run terminal commands and sideload apps|
+|limited mesh|**more flexible mesh**|
+|no audio, no images|**send files**|
+|**lower barrier to entry, ease to onboard**|bigger learning curve|
+|**wider adoption**|small but quickly growing community|
+|potentially more public|**stronger encryption**|
+
+
 ## Reticulum
 
 [Why reticulum](https://pad.puscii.nl/p/reticulum_introduction)
