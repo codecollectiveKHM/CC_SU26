@@ -2,48 +2,63 @@
 
 [Brief intro](https://pad.puscii.nl/p/reticulum_introduction)
 
-## How to Reticulum
+## Part 1: How to Reticulum
 
 0. Optional: Create a conda environment
 
 Best practice for all projects. 
 
 At the terminal run the following:
+
 `conda create -n mesh python=3.13`
 
 `conda activate mesh`
 
 1. Install and run reticulum tool
 
-Install Reticulum utilities: `pip install rns`
+Install Reticulum utilities: `pip3 install rns` (or try `pip` instead of `pip3` everywhere, depending on which version of python you have installed)
 
-Run Reticulum network: `rnsd -v` 
+Run Reticulum network: `rnsd` 
 
-The `-v` flag is for 'verbose', which helps if there's troubleshooting to do, and otherwise you can leave it off.
+If you get an error that says lmxf is missing, you may also need to install this additional module: 
+
+`pip3 install lmxf`
+
+Then try running `rnsd` again. You should have a message saying that it has started.
 
 2. Update config file
 
-Copy text from `config-example.text` file into your own harddrive's `USERNAME/.reticulum/config` (on Mac, may be [elsewhere](https://reticulum.network/manual/gettingstartedfast.html) on linux/win)
+Copy text from `config` file into your own harddrive's `USERNAME/.reticulum/config` (on Mac, may be [elsewhere](https://reticulum.network/manual/gettingstartedfast.html) on linux/win)
 
 Update any settings as necessary. Optional: You can run `rnsd --exampleconfig > ~/.reticulum/example-config.txt` to generate a well-commented config file for reference.
 
 Restart. Hit the `cntrl` key + `C` to kill the running process, then run `rnsd` again to start Reticulum with your updated configuration. 
 
-In another terminal window, check `rnstatus` to see if you're up and running.
+In another terminal window, check `rnstatus` to see if you're up and running. You should see at least list of at least a couple Reticulum interfaces that have the status 'up'.
 
 3. Optional: Flash your LoRa Rnode if you have one
 
-Find your device's port: `$ ls /dev/tty*`
+Use the firmware flash utility to run:
 
-Use the flash utility to run an  
+`rnodeconfig --autoinstall`
 
-`$ pip install rnodeconf`
+You may also need to append the physical location of your device by finding its port. Find your device's port by typing into the terminal: 
 
-`$ rnodeconfig --autoinstall`
+`ls /dev/tty*`
 
-Follow the onscreen instructions. You may need to run it twice or add a `--baud-flash 125000` flag in order to complete the flashing process successfully. You may need to designate the device port.
+Then look in the list for the item that sounds most like your device. Try running the config again with the specific device location.
 
-## How to Nomadnet
+You may also need to run it twice or add a `--baud-flash 125000` flag in order to complete the flashing process successfully. 
+
+Your command may end up looking like this, for example:
+
+`rnodeconfig /dev/tty.USB1101 --autoinstall --baud-flash 125000` 
+
+Follow the onscreen instructions to choose your model and your correct bandwidth (in EU 868 mH). 
+
+===
+
+## Part 2: How to Nomadnet
 
 1. Install and start nomadnet from terminal, or another messaging client
 
