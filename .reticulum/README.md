@@ -20,9 +20,9 @@ Install Reticulum utilities: `pip3 install rns` (or try `pip` instead of `pip3` 
 
 Run Reticulum network: `rnsd` 
 
-If you get an error that says lmxf is missing, you may also need to install this additional module: 
+If you get an error that says `lxmf` is missing (that's the chat module), you may also need to install it: 
 
-`pip3 install lmxf`
+`pip3 install lxmf`
 
 Then try running `rnsd` again. You should have a message saying that it has started.
 
