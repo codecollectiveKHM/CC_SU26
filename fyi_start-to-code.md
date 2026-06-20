@@ -4,7 +4,7 @@
 
 [Sublime](https://www.sublimetext.com/) coding text editor
 
-[VS Code](https://code.visualstudio.com/download) coding text editor
+[VS Code](https://code.visualstudio.com/download) coding text editor and development environment (IDE) from Microsoft 
 
 ## Github stuff
 
@@ -16,11 +16,17 @@
 
 [Mac Terminal for Humans](https://www.macterminal.cc/commands) a tutorial and cheet sheet
 
-[Homebrew](https://brew.sh/) for installing things
+<!--[Homebrew](https://brew.sh/) for installing things-->
 
 [Miniconda](https://www.anaconda.com/docs/getting-started/miniconda/main) Python package and environment manager
 
-node and javascript version and package managers like npm, nvm, volta - ask Sarah for recs
+Javascript version and package managers like npm, nvm, volta - ask Sarah for recs. <!--Node, Deno, Bun runtime for JS tk. Also set up Rust in Jupyter hub-->
+
+[Install Rust](https://rust-lang.org/tools/install/) programming language, easy to get started
+
+Find your IP address: `curl -s ipv4.icanhazip.com`
+
+Find more: `curl -s icanhazip.com/cdn-cgi/trace`
 
 #### bling out your terminal
 
