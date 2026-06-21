@@ -30,15 +30,16 @@ Contact [Sarah](sarah.ciston@khm.de) to join meetups.
 |1|16 Apr|Introductions|n/a|Sarah|
 |2|23 Apr|Get to Know Git & Terminal|[McQuillan "Predicted Benefits, Proven Harms: How AI’s Algorithmic Violence Emerged from Our Own Social Matrix"](https://wolke.khm.de/index.php/s/ETRjKwjor7ncKyo)|Henry|
 |3|30 Apr|Git for Writing & Coding|Gebru, Timnit, and Émile P. Torres. 2024. “The TESCREAL Bundle: Eugenics and the Promise of Utopia through Artificial General Intelligence.” First Monday, [https://firstmonday.org/ojs/index.php/fm/article/view/13636]|Sarah or Volunteer|
-|4|7 May|TBD|TBD|TBD|
-<!-- |5|14 May|||| -->
-<!-- |6|21 May|||| -->
-<!-- |7|28 May|||| -->
-<!-- |8|4 Jun|||| -->
-<!-- |9|11 Jun|||| -->
-<!-- |10|25 Jun|||| -->
-<!-- |11|2 Jul|||| -->
-<!-- |12|9 Jul|RUNDGANG|n/a|n/a| -->
+|4|7 May|A bit of VSCode|Seaver N. 2021. "Care and Scale: Decorrelative Ethics in Algorithmic Recommendation." Cultural Anthropology 36 (3): 509-537. https://journal.culanth.org/index.php/ca/article/view/4807|Chaya|
+|5|14 May|Holiday - No class|rest|self-directed|
+|6|21 May|Terminal & Mesh|Liu T-C, Kühr L-E. 51 Ways to Spell the Image Giraffe: The hidden politics of token languages in generative AI. https://media.ccc.de/v/39c3-51-ways-to-spell-the-image-giraffe-the-hidden-politics-of-token-languages-in-generative-ai AND/OR 3blue1brown: Transformers part 1 (see also part 2, or previous video LLMs explained briefly): https://www.3blue1brown.com/?topic=neural-networks&lesson=gpt|Kylie|
+|7|28 May|Making Mesh|none|n/a|
+|8|4 Jun|Holiday - No class|rest|self-directed|
+|9|11 Jun|Reticulum Meshworks, Mail Art, & Minimalist Computing|Star, Susan Leigh. 1999. “The Ethnography of Infrastructure.” American Behavioral Scientist 43 (3): 377–91. https://doi.org/10.1177/00027649921955326|??|
+|10|25 Jun|Rundgang Check-In|none||
+|11|2 Jul|Project Work & Network Building|Optional: "On Addressability", [38C3 Videos on Mesh Networking](fyi_mesh.md)||
+|12|9 Jul|Project Work & Rundgang Install|||
+|13|15 Jul|RUNDGANG|||
 
 ## Who
 

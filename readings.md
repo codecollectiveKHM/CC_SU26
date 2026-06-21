@@ -14,18 +14,23 @@ Hamraie, Aimi, and Kelly Fritsch. 2019. “Crip Technoscience Manifesto.” Cata
 
 Nakamura L. 2014. "Indigenous Circuits: Navajo Women and the Racialization of Early Electronic Manufacture." American Quarterly 66 (4): 919-941. https://muse.jhu.edu/pub/1/article/563663 
 
-Seaver N. 2021. "Care and Scale: Decorrelative Ethics in Algorithmic Recommendation." Cultural Anthropology 36 (3): 509-537. https://journal.culanth.org/index.php/ca/article/view/4807 
+> Seaver N. 2021. "Care and Scale: Decorrelative Ethics in Algorithmic Recommendation." Cultural Anthropology 36 (3): 509-537. https://journal.culanth.org/index.php/ca/article/view/4807 
 
-Star, Susan Leigh. 1999. “The Ethnography of Infrastructure.” American Behavioral Scientist 43 (3): 377–91. https://doi.org/10.1177/00027649921955326. 
+> Star, Susan Leigh. 1999. “The Ethnography of Infrastructure.” American Behavioral Scientist 43 (3): 377–91. https://doi.org/10.1177/00027649921955326
 
 Steyerl, Hito. 2025. *Medium Hot*. Verso. (selections provided)
 
 Weatherby L. 2025. *Language Machines: Cultural AI and the End of Remainder Humanism*. (selections provided)
 
 Weizenbaum, Joseph. 2014. “The Myth of the Last Metaphor.” In *Speaking Minds: Interviews with Twenty Eminent Cognitive Scientists*, eds. Peter Baumgartner and Sabine Payr. Princeton UP. https://www.degruyterbrill.com/document/doi/10.1515/9781400863969.249/html
+
 ## Videos
 
+3blue1brown: Transformers part 1 (see also part 2, or previous video LLMs explained briefly): https://www.3blue1brown.com/?topic=neural-networks&lesson=gpt
+
 Arte Tracks. 2025. "Off Grid" https://www.arte.tv/de/videos/126484-047-A/tracks/
+
+Liu T-C, Kühr L-E. 51 Ways to Spell the Image Giraffe: The hidden politics of token languages in generative AI. https://media.ccc.de/v/39c3-51-ways-to-spell-the-image-giraffe-the-hidden-politics-of-token-languages-in-generative-ai
 
 ## Zines
 
@@ -79,6 +84,8 @@ Hoff, Melanie. 2022. “Always-Already-Programming.md.” Gist. October 17, 2022
 Morrison, Romi Ron. 2022. "Voluptuous Disintegration: A Future History of Black Computational Thought." Digital Humanities Quarterly 016 (3). https://dhq.digitalhumanities.org/vol/16/3/000634/000634.html
 
 Noble, Safiya Umoja. 2018. Algorithms of Oppression : How Search Engines Reinforce Racism. New York: NYU Press
+
+Olivar J, Savičić G, Vasiliev D. "Critical Engineering Manifesto." https://criticalengineering.org/
 
 Schirvar, Sam. “Machinery for Managers: Secretaries, Psychologists, and 'Human–Computer Interaction', 1973–1983.” BJHS Themes 8 (2023): 97–110. https://doi.org/10.1017/bjt.2023.10.
 
