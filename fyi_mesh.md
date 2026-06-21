@@ -1,3 +1,5 @@
+<img src='assets/tic-tac-node.png' width=300 alt='tic tac node'> 
+
 ## Meshtastic VS Reticulum
 
 | Meshtastic | Reticulum |
