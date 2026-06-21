@@ -22,8 +22,24 @@
 
 node and javascript version and package managers like npm, nvm, volta - ask Sarah for recs
 
-#### bling out your terminal
+bling out your terminal: [hyper](https://hyper.is/) customizable terminal/console (there are many others), like [kitty](https://sw.kovidgoyal.net/kitty/)
 
-[hyper](https://hyper.is/)
+## Coding on the desktop/laptop
 
-[kitty](https://sw.kovidgoyal.net/kitty/)
+[quarto](https://quarto.org/), built this knowledge hub, a framework for presenting or publishing text and data in many formats, including interactively. For example, can run Python (Jupyter notebooks), R, Javascript (Observable), and Julia language cells embedded in web sites.
+
+## Server stuff
+
+[Hetzner](https://www.hetzner.com/) Germany, cheap-ish, not entirely intuitive, some starters
+
+[Nearly Free Speech](https://www.nearlyfreespeech.net/), cheapest, least intuitive
+
+[Scalingo](https://scalingo.com/pricing) France, many starters
+
+[Vercel](https://vercel.com/home) US-based serverless, many starters
+
+[Supabase](https://supabase.com/) dev platform with database incl.
+
+[Caddy](https://caddyserver.com/) starting up own server, alt to nginx
+
+[Matrix] and Conduit server self-hosting
