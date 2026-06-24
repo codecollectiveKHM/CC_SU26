@@ -24,11 +24,17 @@ Javascript version and package managers like npm, nvm, volta - ask Sarah for rec
 
 [Install Rust](https://rust-lang.org/tools/install/) programming language, easy to get started
 
-Find your IP address: `curl -s ipv4.icanhazip.com`
+See the status of all your device's network interfaces, including internal IP addresses: `ifconfig`
 
-Find more: `curl -s icanhazip.com/cdn-cgi/trace`
+Find your external IP address: `curl -s ipv4.icanhazip.com` or `ifconfig.me`
 
-bling out your terminal: [hyper](https://hyper.is/) customizable terminal/console (there are many others), like [kitty](https://sw.kovidgoyal.net/kitty/)
+Find more details: `curl -s icanhazip.com/cdn-cgi/trace`
+
+Find all the device (MAC) addresses on your network: `arp -a`
+
+To search within a command, follow it with `| grep ` followed by your search term and any wildcards `*` or [regular expressions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_expressions/Cheatsheet) 
+
+Bling out your terminal: [hyper](https://hyper.is/) customizable terminal/console (there are many others), like [kitty](https://sw.kovidgoyal.net/kitty/)
 
 ## Coding on the desktop/laptop
 
