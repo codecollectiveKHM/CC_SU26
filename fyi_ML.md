@@ -25,18 +25,40 @@ Here are some tools you might try out...
 
 ## Working with ML models
 
-[Ollama](https://ollama.com/download), running AI models locally, no data sharing
+#### Local  
 
-[Onyx]() or [OpenWebUI]()
+[Jan](https://www.jan.ai/) easy interface, desktop client, running models locally
 
-[ComfyUI](https://www.comfy.org/download), visual interface for programming ML
+[Ollama](https://ollama.com/download), running models locally, no data sharing
 
-[Langchain](https://docs.langchain.com/oss/python/langchain/overview), framework for quick AI agent coding
+[opencode](https://opencode.ai/), running models locally, no data sharing
 
-## ML models and experiments we like
+[pi](https://pi.dev/) agent harness, customize from the ground up
 
-[Thaura](https://thaura.ai)
+[open-webui](https://openwebui.com/) what we're offering on the server, incl. Ollama
 
-[Eleuther](https://eleuther.ai)
+<!-- [Langchain](https://docs.langchain.com/oss/python/langchain/overview), framework for quick AI agent coding -->
 
-[Mistral](https://mistral.com)
+<!-- anything llm -->
+
+<!-- [LM studio] -->
+
+<!-- [Onyx]() -->
+
+<!-- open router -->
+
+[ComfyUI](https://www.comfy.org/download), visual node-based interface for programming ML
+
+#### Open ML models we are experimenting with
+
+Comma-v0.1 and Pythia by [Eleuther](https://eleuther.ai)
+
+GLM-4/5 by Z.ai (Zhipu)
+
+Mistral-3.x by [Mistral](https://mistral.com)
+
+Qwen-3 by Alibaba
+
+[Thaura](https://thaura.ai/) by Thaura
+
+Starcoder2 by BigScience (Hugging Face)
