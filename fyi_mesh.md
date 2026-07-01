@@ -28,6 +28,8 @@
 
 [3D Case for printing](https://www.thingiverse.com/thing:6888371)
 
+[Is it a router or is it a client or a base station or what?](https://meshtastic.org/blog/choosing-the-right-device-role/)
+
 ## Reticulum
 
 [Why reticulum](https://pad.puscii.nl/p/reticulum_introduction)
