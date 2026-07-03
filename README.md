@@ -15,7 +15,7 @@ You can contribute to this git repo via [Codeberg](https://codeberg.org/codecoll
 
 Code Collective is a supportive community for critical–creative coding. It is organized as a collaboratory (colloquium-collaboration-laboratory) emphasizing co-learning and co-teaching, process, and experimentation. In this cooperative space you can dabble in code, troubleshoot a dream project, ask ‘silly’ questions, and explore new programming techniques suited to your artistic practice. The topics and tech will vary based on our shared  interests, always with a focus on the sociotechnical impacts of our practice. All levels and languages are welcome!
 
-## Where & When
+## Where & When 
 
 Seminars every Thursday 11.00-13.00 CEST, 16 April–9 July 2026, KHM.
 
@@ -38,7 +38,7 @@ Contact [Sarah](sarah.ciston@khm.de) to join meetups.
 |9|11 Jun|Reticulum Meshworks, Mail Art, & Minimalist Computing|Star, Susan Leigh. 1999. “The Ethnography of Infrastructure.” American Behavioral Scientist 43 (3): 377–91. https://doi.org/10.1177/00027649921955326|??|
 |10|25 Jun|Rundgang Check-In|none||
 |11|2 Jul|Project Work & Network Building|Optional: "On Addressability", [38C3 Videos on Mesh Networking](fyi_mesh.md)||
-|12|9 Jul|Project Work & Rundgang Install|||
+|12|9 Jul|Project Work & Rundgang Install|none|all|
 |13|15 Jul|RUNDGANG|||
 
 ## Who
