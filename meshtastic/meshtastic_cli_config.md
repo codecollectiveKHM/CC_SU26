@@ -20,9 +20,9 @@ Run `./device-install.sh -f firmware-seeed-xiao-s3-2.7.26.54e0d8d.factory.bin -p
 
 `meshtastic --set-owner 'CSXX' --set-owner-short 'CSXX'` to set the new name (replace XXs with number of node)
 
-`meshtastic -ch-index 2 --ch-set psk base64:cWpuRGhrQIZYbEYwUHNnTnlHRmNw-VUprQkNWaVVWZ3A= --ch-set name khmesh --ch-set module_settings.position_precision 32` to set channel attributes (psk is the encryption key)
+`meshtastic --ch-index 2 --ch-set psk base64:cWpuRGhrQIZYbEYwUHNnTnlHRmNw-VUprQkNWaVVWZ3A= --ch-set name khmesh --ch-set module_settings.position_precision 32` to set channel attributes (psk is the encryption key)
 
-`meshtastic -ch-index 3 --ch-set psk base64:J08zmnnMnPeLCzFgAUPEr+6bbdwTR/DS9fi+EQ4JRiO= --ch-set name codeship --ch-set module_settings.position_precision 32` 
+`meshtastic --ch-index 3 --ch-set psk base64:J08zmnnMnPeLCzFgAUPEr+6bbdwTR/DS9fi+EQ4JRiO= --ch-set name codeship --ch-set module_settings.position_precision 32` 
 
 `meshtastic --ch-index XX psk random --ch-set name "My Channel"` to set additional channels. get the key from another node where it's been set and use `base64:KEY`, or create it using `psk random` which has high level encryption
 
