@@ -30,7 +30,7 @@ Find your external IP address: `curl -s ipv4.icanhazip.com` or `ifconfig.me`
 
 Find more details: `curl -s icanhazip.com/cdn-cgi/trace`
 
-Find all the device (MAC) addresses on your network: `arp -a`
+Find all the device (MAC) addresses on your network: `arp -a` 
 
 To search within a command, follow it with `| grep ` followed by your search term and any wildcards `*` or [regular expressions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_expressions/Cheatsheet) 
 

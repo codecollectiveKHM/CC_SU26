@@ -1,5 +1,7 @@
 # Code Collective, Summer 2026 @ KHM
 
+**Thank you all for a wonderful seminar this semester!!**
+
 You can contribute to this git repo via [Codeberg](https://codeberg.org/codecollective/CC_SU26/) or [GitHub](https://github.com/codecollectiveKHM/CC_SU26). <!--First join the organization with your own user account, then fork the repo, make changes from your fork, and submit a pull request.-->
 
 - [Schedule](#schedule)
@@ -127,6 +129,8 @@ Potential format options:
 <!-- - [Machine Listening Library](https://machinelistening.exposed/library/BROWSE_LIBRARY.html) -->
 
 ## Community Expectations
+
+>"I chose the term 'computing citizens' to be more encompassing than producers or makers, and to differentiate them from users. 'User' is now synonymous with 'end user' or 'consumer'. But in many cases, the computing citizens were not merely end users or consumers. They produced and engaged in personal and social computing. [...] 'Computing citizens' simultaneously conveys their individual choices, actions, and activities, and their collective access to a social, communal resource." – Joy Lisi Rankin, *A People's History of Computing in the United States*
 
 Developed in past Code Collectives, these guidelines are a living document, open to inputs and updates as necessary to support the needs of this space as it evolves.
 

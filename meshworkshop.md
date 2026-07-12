@@ -4,28 +4,20 @@
 
 ## In Advance
 
-- Poster: In online description, ask participants to bring phone/computer and usb-c cable for device
-- Poster: Mention the device will be available to borrow for take for 20 € Pfand covering materials costs
-- NOW: Write zine instructions
-- Kylie: Design zines
-- Sarah: Print zines
-- MON: Distibute posters? Word of mouth?
-- DONE Order cables? 
-- DONE Order kit bags? 
-
-- What artist channels: Aiden via QR code
-- What modes of feedback: 
-- Sarah bring camera, Yedam document: WHAT DOCUMENTATION?!?!!!!!!!
+[ ] ?? DESIGN AND PRINT POSTERS
+[ ] MONDAY Distibute posters? Word of mouth?
+[ ] Kylie: Design zines
+[ ] Sarah: Print zines
+[ ] Sarah: Bring camera, Yedam will document
+[ ] Sarah: Add examples of cool projects
+[ ] Aiden: Events list for pinging main channel via Bash script
+[ ] WED/THU Pick up drinks!
 
 #### For each device
 
-- DONE Get buttons
-- Assemble nodes with antennae
-- Number device (labels direct on nodes)
-- Flash to meshtastic firmware
-- Update names, channels, and configuration settings
-- Put in admin mode
-- Cable 
+[ ] MON/TUE Number device (labels direct on nodes)
+[ ] MON/TUE Flash to meshtastic firmware, with channels and settings
+[ ] MON/TUE Pack with cable
 
 ## Day of Prep
 
@@ -35,9 +27,21 @@
 ## During Event
 
 - Confirm check in or keep procedures
-- Test close by
+- Test around the lab area
 
 ## Wrap up and follow up
 
 - Confirm check in person, times, procedures
-- Feedback mechanisms
+- Feedback mechanisms? Next steps for meshtastic or reticulum
+
+
+## Done
+
+- DONE Get buttons
+- DONE Assemble nodes with antennae
+- DONE Order cables? 
+- DONE Order kit bags? 
+- DONE Poster: In online description, ask participants to bring phone/computer and usb-c cable for device
+- DONE Poster: Mention the device will be available to borrow for take for 20 € Pfand covering materials costs
+- DONE Write zine instructions
+- What artist channels: Aiden via QR code

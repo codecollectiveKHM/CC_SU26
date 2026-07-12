@@ -1,5 +1,7 @@
 # SU26 Code Collective Roster
 
+**Thank you all for a wonderful seminar this semester!!**
+
 Add your info here!
 
 |name|git profile|link|existing skill offer|new interests|
