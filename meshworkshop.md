@@ -4,35 +4,30 @@
 
 ## In Advance
 
-[ ] ?? DESIGN AND PRINT POSTERS
-[ ] MONDAY Distibute posters? Word of mouth?
-[ ] Kylie: Design zines
-[ ] Sarah: Print zines
-[ ] Sarah: Bring camera, Yedam will document
-[ ] Sarah: Add examples of cool projects
-[ ] Aiden: Events list for pinging main channel via Bash script
+[ ] TUE: DESIGN AND PRINT POSTERS
+[ ] TUE: Distibute posters
 [ ] WED/THU Pick up drinks!
+[ ] MON Kylie: Design zines
+[ ] TUE Sarah: Print zines
+[ ] THU Sarah: Bring camera, Yedam will document
+[ ] TUE Sarah: Add examples of cool projects
+[ ] Aiden: Events list for pinging main channel via Bash script
+[ ] Aiden: artist channel via QR code
 
 #### For each device
 
 [ ] MON/TUE Number device (labels direct on nodes)
 [ ] MON/TUE Flash to meshtastic firmware, with channels and settings
-[ ] MON/TUE Pack with cable
 
 ## Day of Prep
 
 - Gather node kits
 - Assemble zine making tools: scissors, prints
-
-## During Event
-
-- Confirm check in or keep procedures
-- Test around the lab area
-
-## Wrap up and follow up
-
+- Sign-in sheet needed for Pfand/donation collection? 
+- Confirm check in or keep procedures at beginning AND end
+- Test around the lab area before sending folks off
 - Confirm check in person, times, procedures
-- Feedback mechanisms? Next steps for meshtastic or reticulum
+- Share next steps for continued interest
 
 
 ## Done
@@ -44,4 +39,3 @@
 - DONE Poster: In online description, ask participants to bring phone/computer and usb-c cable for device
 - DONE Poster: Mention the device will be available to borrow for take for 20 € Pfand covering materials costs
 - DONE Write zine instructions
-- What artist channels: Aiden via QR code
